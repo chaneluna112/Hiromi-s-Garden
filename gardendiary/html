@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hiromi's Garden</title>
+  <link rel="stylesheet" href="reset.css">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="favicon.png">
+</head>
+
+<body>
+
+
+  <header>
+    <div class="title-group">
+      <img src="winelogo.png">
+      <h1><a href="index.html">Hiromi's Garden</a></h1>
+      <p>毎日を少し豊かにする</p>
+    </div>
+    <nav>
+      <ul class="global-nav">
+        <li><a href="aboutme.html">About Me</a></li>
+        <li><a href="cooking.html">Cooking</a></li>
+        <li><a href="wine.html">Wine</a></li>
+        <li><a href="flower.html">Flower</a></li>
+        <li><a href="dog.html">Dog</a></li>
+        <li><a href="language.html">Language</a></li>
+        <li><a href="gardendiary.html">Garden Diary</a></li>
+
+      </ul>
+    </nav>
+
+  </header>
+
+    <main>
+
+<h2>Garden Diary</h2>
+
+<article>
+<h3>2026.06.16</h3>
+
+<h4>空心菜とベビーコーンのタイ風炒め（パッパッカーナ・タオチオ）</h4>
+
+<p class="diary-text">
+  一昨日、大量のベビーコーンを向いた。
+  ゴミ袋がいっぱになるほどだったけれど、その時は写真を取り忘れた（汗）。<br>
+
+  昨日はそのベビーコーンを使って、空心菜と一緒にタイ風の炒め物にした。
+  調味料はタイのタオチオという味噌みたいなものと唐辛子とにんにく。<br>
+  タイで覚えたお気に入りの味。<br>
+
+
+  BGMはMichael Jackson.<br>
+
+
+  <img src="Images/diary/pappakkanataochio.png" width="500" height="auto" alt="空心菜とベビーコーンのタイ風炒め">
+</p>
+</article>
+
+<article>
+<h3>2026.06.17</h3>
+
+<h4>モンステラを散髪した日</h4>
+
+<p class="diary-text">
+小さな苗だったモンステラが、
+ついに天井を目指し始めた。
+
+支柱では追いつかず、
+30cmほどカット。
+</p>
+<img src="Images/diary/monsterabefore.png" width="400" height="auto" alt="モンステラ剪定前">
+
+<p>
+切った先はキッチンで保護観察中。
+我が家の植物たちは、
+だいたいこうして増えていく。
+</p>
+<img src="Images/diary/monsteraafter.png" width="400" height="auto" alt="モンステラ剪定後のキッチン">
+
+</article>
+
+
+
+<article>
+<h3>2026.06.18</h3>
+
+<h4>マンモグラフィーの日</h4>
+
+<p class="diary-text">
+昨日は、眠剤がまったく効かず、ほとんど眠れなかった<br>
+薬を追加したけれど、それ以上飲んだら危ないと思うところでやめた。<br>
+
+朝一番でマンモグラフィーの検査へ。<br>
+寝不足で体も痛く、少し気持ち悪かったけれど、なんとか終わった。
+帰宅してから、倒れた・・・
+</p>
+
+
+</article>
+
+
+</main>
+
+
+<footer>
+    <p class="copyright">
+      © COCO&LUCA / Hiromi's Garden</p>
+
+    <div class="line-box">
+      <p>LINEでご相談はこちら</p>
+      <img src="Images/AboutMe/lineqr.png">
+    </div>
+
+    <div class="sns-box">
+      <a href="https://www.linkedin.com/in/%E6%B5%A9%E7%BE%8E-%E5%90%89%E7%94%B0-64b472148/" target="_blank">
+        <img src="Images/AboutMe/LinkedInlogo.png" alt="LinkedIn">
+      </a>
+
+      <a href="https://www.instagram.com/chaneluna112/" target="_blank">
+        <img src="Images/AboutMe/instagramlogo.png" alt="Instagram">
+      </a>
+    </div>
+  </footer>
+
+</body>
+
+</html>
